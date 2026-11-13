@@ -1,0 +1,6 @@
+resources/*
+!resources/.gitkeep
+database.db
+__pycache__/
+venv/
+*.pyc
